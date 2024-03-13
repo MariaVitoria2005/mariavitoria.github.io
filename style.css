@@ -1,0 +1,52 @@
+
+.lista-card{
+    display:flex;
+    flex-wrap: wrap;
+    cursor: pointer;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+.card{
+    border: 1px solid #868686;
+    width: 250px;
+    border-radius: 10px ;
+    box-shadow: 6px 6px 8px rgba(146,146,146,146);
+    flex-direction:column;
+    padding: 10px;
+    /*align-items: center;*/
+    display:flex;
+   
+}
+.semDesconto{
+    color: rgb(0, 4, 255);
+    font-size: 17px;
+}
+
+.textos{
+    justify-content: space-between;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    /*align-items: center;*/
+    text-align: center;
+
+}
+.grupo-img{
+    width: 250px;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+p {
+  margin: 6px;
+}
+.moto{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.grupo-img:hover{
+    transform: scale(1.35);
+    transition: transform 0.3s ease;
+}
+

@@ -1,0 +1,12 @@
+.mini-img{
+    column-gap: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.moto{
+    width: auto;
+    height: auto;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
