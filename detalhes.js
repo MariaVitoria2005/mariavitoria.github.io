@@ -14,18 +14,13 @@ async function verDetalhe(){
     
     document.title=produtos[inProduto].nome
 
-    
     document.getElementById("detalhes").innerHTML += `
         <h3>${produtos[inProduto].nome}</h3>
         <img src="${produtos[inProduto].img[0]}" id="img-frame" height="280" width="auto" style="border: 2px solid #000; border-radius:10px" >
         <div class="mini-img" id="mini-img">
 
         </div>
-        <p> ${produtos[inProduto].PotenciaMaxima}</p>
-        <p> ${produtos[inProduto].TorqueMaximo}</p>
-        <div class="grupoValores">
-            <span>R$ ${(produtos[inProduto].valorsemDesconto).toFixed(2).replace("." , ",")}</span>        
-        </div>
+      
     `
 
     for(let x of produtos[inProduto].img){
@@ -46,5 +41,10 @@ function alteraImg(){
 
 verDetalhe()
 
-const  fundoID =document.getElementById("moto");
+/*const  fundoID =document.getElementById("moto");
 fundoID.style.backgroundImage="url('https://i.pinimg.com/736x/11/95/63/11956381796b638c599e78813dc98f1d.jpg')"
+  <p> ${produtos[inProduto].PotenciaMaxima}</p>
+        <p> ${produtos[inProduto].TorqueMaximo}</p>
+        <div class="grupoValores">
+            <span>R$ ${(produtos[inProduto].valorsemDesconto).toFixed(2).replace("." , ",")}</span>        
+        </div>*/

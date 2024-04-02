@@ -7,13 +7,7 @@
         "https://www.honda.com.br/motos/sites/hda/files/2023-08/moto-honda-cg-160-start--prata-met%C3%A1lico_8.webp"
         ],
         "nome": "CG 160 Start",
-        "valorsemDesconto": 14360,
-        "Cilindrada":"162,7 cc" ,
-        "PotenciaMaxima": "14,9 cv a 8.000 rpm",
-        "TorqueMaximo": "1,40 kgf.m a 7.000 rpm",
-        "Transmissao": " 5 velocidades" ,
-        "SistemadePartida":"Elétrico",
-        "Combustivel":"Gasolina"
+        "valorsemDesconto": 14360
     },
     {
         "id":2,
@@ -23,11 +17,7 @@
             "https://i.pinimg.com/originals/77/40/30/77403025e38089b21df688e51f8bdd7d.jpg"
         ] ,
         "nome": "CG 160 Fan",
-        "valorsemDesconto": 15750,
-        "Cilindrada":"162,7 cc" ,
-        "PotenciaMaxima": "15,1 cv a 8.000 rpm",
-        "TorqueMaximo": "1,54 kgf.m a 7.000 rpm ",
-        "Combustivel":"Etanol"
+        "valorsemDesconto": 15750
     },
     {
         "id":3,
@@ -37,11 +27,7 @@
                "https://motonewsbrasil.com/wp-content/uploads/2021/06/honda-cg-160-titan-2022-4.jpeg"    
         ],
         "nome": "CG 160 Titan",
-        "valorsemDesconto":17100.00,
-        "Cilindrada":"162,7 cc" ,
-        "PotenciaMaxima": "14,9 cv a 8.000 rpm",
-        "TorqueMaximo": "1,40 kgf.m a 7.000 rpm",
-        "Combustivel":"Gasolina"
+        "valorsemDesconto":17100.00
     },
     {
         "id":4,
@@ -51,11 +37,7 @@
                 "https://http2.mlstatic.com/D_NQ_NP_874268-MLB47879806249_102021-O.webp"
         ],
         "nome": "CG 160 Cargo",
-        "valorsemDesconto":15660,
-        "Cilindrada": "162,7 cc",
-        "PotenciaMaxima": "15,1 cv a 8.000 rpm",
-        "TorqueMaximo": "1,54 kgf.m a 7.000 rpm ",
-        "Combustivel":" Etanol"
+        "valorsemDesconto":15660
     },
     {
         "id":5,
@@ -65,11 +47,7 @@
                 "https://down-br.img.susercontent.com/file/6a8d31590592f1aededcfeeabc1ff3ed"
         ],
         "nome": "Pop 110i",
-        "valorsemDesconto": 9570,
-        "Cilindrada": "109,1 cc",
-        "PotenciaMaxima": "7,9 cv a 7.250 rpm",
-        "TorqueMaximo": "0,90 kgf.m a 5.000 rpm",
-        "Combustivel":"Gasolina"
+        "valorsemDesconto": 9570
     },
     {
         "id":6,
@@ -79,11 +57,7 @@
                 "https://i0.wp.com/www.autodestaque.net.br/wp-content/uploads/2022/01/1HondaBiz110i20221.jpg?fit=1024%2C683&ssl=1"
             ],
         "nome": "Biz 110i",
-        "valorsemDesconto": 11670,
-        "Cilindrada": "109,1 cc",
-        "PotenciaMaxima": "8,33 cv a 7.250 rpm",
-        "TorqueMaximo": "0,89 kgf.m a 5.500 rpm",
-        "Combustivel":"Gasolina"
+        "valorsemDesconto": 11670
     },
     {
         "id":7,
@@ -93,11 +67,7 @@
                 "https://cmssaladeimprensa.honda.com.br//sites/default/files/styles/hd_exibicao/public/2021-07/Biz%20125_EST_%20%281%29.jpg?itok=nHDs2-nf"
     ],
         "nome": "Biz 125",
-        "valorsemDesconto": 14610 ,
-        "Cilindrada": "124,9 cc",
-        "PotenciaMaxima": "9,2 cv a 7.500 rpm",
-        "TorqueMaximo": "1,04 kgf.m a 3.500 rpm",
-        "Combustivel": "Etanol"
+        "valorsemDesconto": 14610 
     }, 
     {
         "id":8,
@@ -107,11 +77,7 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmwHwBpgTWnWs_vFLcyOAESsoOO1Ba0otNag&usqp=CAU"
     ],
         "nome": "Elite 125",
-        "valorsemDesconto": 12580,
-        "Cilindrada": "124,9 cc" ,
-        "PotenciaMaxima": "9,34 CV a 7500 rpm",
-        "TorqueMaximo": "1,05 kgf.m a 6000 rpm",
-        "Combustivel": "Gasolina"
+        "valorsemDesconto": 12580
     },
     {
         "id":9,
@@ -121,11 +87,7 @@
                 "https://www.otoinfo.id/wp-content/uploads/2023/12/honda-pcx150-slant-rear-view-full-image-112259-4.webp"
     ],
         "nome": "PCX",
-        "valorsemDesconto": 16800,
-        "Cilindrada":" 156,9 cc" ,
-        "PotenciaMaxima": "16CV a 8.500 rpm",
-        "TorqueMaximo": "1,5 kgf.m a 6.500 rpm",
-        "Combustivel": "Gasolina"
+        "valorsemDesconto": 16800
     },
     {
         "id":10,
@@ -135,11 +97,7 @@
                 "https://autocdn.co.uk/cdn-cgi/imagedelivery/JC4X6oe6GKVO4ZI4xd1Czg/cab9e2eb-4dd2-4cd9-2664-c58c0446eb00/raw"
         ],
         "nome": "Honda ADV",
-        "valorsemDesconto": 23060,
-        "Cilindrada": "149,3 cc" ,
-        "PotenciaMaxima": "13,2 CV a 8500 rpm",
-        "TorqueMximo": "1,38 kgf.m a 6500 rpm",
-        "Combustivel": "Gasolina"
+        "valorsemDesconto": 23060
     },
     {
         "id":11,
@@ -149,11 +107,7 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq7Nrj1domTipMRQgYG5WGxAvCJJEl8S3AzfKGt4S-KjyK5Fe9ZM5saY9w5Bls1pgEmlc&usqp=CAU"
     ],
         "nome": "Forza 350",
-        "valorsemDesconto":  50300,
-        "Cilindrada": "330cc",
-        "PotenciaMaxima": "21,5 kW a 7500 rpm",
-        "TorqueMaximo": " 31,8 N.m a 5250 rpm",
-        "Combustivel": "Gasolina"
+        "valorsemDesconto":  50300
     },
     {
         "id":12,
@@ -163,11 +117,7 @@
                 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiplGdYLH4vqzww-yh8VHlaz_hwBGrFs-wdJ_bA0COyGMMiZQiQjQluNIrydi3TwIls2x8caQSCI7D6Y6OpiTgE3_0tZ4MMOh7G765hJVmI8uC_fY8VrO3A7Gadb6HTPmyPpgGeg09A6y3ThGAEuhla1-_saL1pvAZ6YCHi8cEcCV2Ai4eUlqxwe2t0/s2560/Honda-CB-300-Twister-2023%20%2820%29.jpg"
     ],
         "nome": "CB 300F Twister",
-        "valorsemDesconto":  22370 ,
-        "Cilindrada": "293,5 cc",
-        "PotenciaMaxima": "24,7 CV a 7.500 rpm",
-        "TorqueMaximo": " 2,67 kgf.m a 5.500",
-        "Combustivel": "Álcool"
+        "valorsemDesconto":  22370 
     },
     {
         "id":13,
@@ -177,11 +127,7 @@
                 "https://i.pinimg.com/736x/ae/fe/4c/aefe4c79a1247274db85a7227e8042b4.jpg"
     ],
         "nome": "CB 500F",
-        "valorsemDesconto": 40660,
-        "Cilindrada": "471 cc",
-        "PotenciaMaxima": "50,2 cv a 8.500 rpm",
-        "TorqueMaximo": "4,54 kgf.m a 7.000 rpm",
-        "Combustivel": "Gasolina"
+        "valorsemDesconto": 40660
     },
     {
         "id":14,
@@ -191,11 +137,7 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2L2fbNQhGgp9nP3xsycmYw4MpjH3d96N0VHtyjwlVtjH0ipsz2RNSMUGtw7nHT1e-2UA&usqp=CAU"
     ],
         "nome": "CB 650R Neo Sports Café",
-        "valorsemDesconto": 52590,
-        "Cilindrada": "649 cc",
-        "PotenciaMaxima": "88,4 CV a 11500 rpm",
-        "TorqueMaximo": "6,13 kgf.m a 8000 rpm",
-        "Combustivel": "Gasolina"
+        "valorsemDesconto": 52590
     },
      {
         "id":15,
@@ -205,11 +147,7 @@
                 "https://www.clubmotor.com.br/wp-content/uploads/2023/05/Nova-Honda-CB-1000R-2024-Precocores-detalhes-exclusivos-e-lancamento.jpg"
     ],
         "nome": "CB 1000R Neo Sports Café",
-        "valorsemDesconto": 78870,
-        "Cilindrada": "Gasolina" ,
-        "PotenciaMaxima": "142,8 cv a 10.500 rpm",
-        "TorqueMaximo": "10,2 kgf.m a 8.250 rpm",
-        "Combustivel": "Gasolina"
+        "valorsemDesconto": 78870
     },
     {
         "id":16,
@@ -219,11 +157,7 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNZAmyKYmPwWKSJf5Y-PL_Gd6y-MIZNlDlGsczxKGAVuPpDrPT0REkOPT1Um0nUfp7Q0&usqp=CAU"
     ],
         "nome": "CB 1000R Black Edition",
-        "valorsemDesconto": 87730,
-        "Cilindrada": "998,4 cc" ,
-        "PotenciaMaxima": "142,8 cv a 10.500 rpm",
-        "TorqueMaximo": "10,2 kgf.m a 8.250 rpm",
-        "Combustivel": "Gasolina"
+        "valorsemDesconto": 87730
     },
     {
         "id":17,
@@ -233,11 +167,7 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlNyv-UC47rxryjMZhCxMWyZFyTDaeO1KlRg&usqp=CAU"
     ],
         "nome": "NC 750X",
-        "valorsemDesconto": 52680,
-        "Cilindrada": "745 cc",
-        "PotenciaMaxima": "58,6 cv a 6.750 rpm",
-        "TorqueMaximo": "7,03 kgf.m a 4.750 rpm",
-        "Combustivel": "Gasolina"
+        "valorsemDesconto": 52680
     },
     {
         "id":18,
@@ -247,11 +177,7 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbh_DtefvjvQWgFY9PBZ3rUYmAgha-G0XoKBCBNQt3C7eKdcLs-ee0PDVDqgnZ27Sd5rE&usqp=CAU"
     ],
         "nome": "CB 500X",
-        "valorsemDesconto": 43260,
-        "Cilindrada": " 471cc",
-        "PotenciaMaxima": "50,2 cv a 8500 rpm",
-        "TorqueMaximo": "4,54 kgf.m a 7000 rpm",
-        "Combustivel": "Gasolina"
+        "valorsemDesconto": 43260
     },
     {
         "id":19,
@@ -261,11 +187,7 @@
                 "https://images.squarespace-cdn.com/content/v1/5c8ff4a1fd67933da7cdf5d8/1560367057805-3U5N6FK0W0WQZ9LF41QE/cb650-1.jpg?format=1500w"
     ],
         "nome": "CBR 650R",
-        "valorsemDesconto": 55360,
-        "Cilindrada": "649 cc",
-        "PotenciaMaxima": "88,4 CV a 11500 rpm",
-        "TorqueMaximo": "6,13 kgf.m a 8000 rpm",
-        "Combustivel":  "Gasolina"
+        "valorsemDesconto": 55360
     },
     {
         "id":20,
@@ -275,11 +197,7 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIdsvNAJJh8PS21AhNVZ9v4yvJqqHJ8472KzGyQMCV4q1mO8adEwROjDPnNuyXkIX1o1s&usqp=CAU"
     ],
         "nome": "CBR 1000RR-R FIREBLADE SP",
-        "valorsemDesconto":  193500,
-        "Cilindrada": " 1.000 cc" ,
-        "PotenciaMaxima": "216,2 cv a 14.500 rpm",
-        "TorqueMaximo": "11,5 kgf.m a 12.500 rpm",
-        "Combustivel": "Gasolina"
+        "valorsemDesconto":  193500
     },
     {
         "id":21,
@@ -289,11 +207,7 @@
                 "https://img1.icarros.com/dbimg/imgnoticia/4/23380_1"
     ],
         "nome": "NXR 160 Bros ESDD",
-        "valorsemDesconto": 19060,
-        "Cilindrada": "162,7 cc" ,
-        "PotenciaMaxima": "14,7 cv a 8.500 rpm",
-        "TorqueMaximo": " 1,60 kgf.m a 5.500 rpm ",
-        "Combustivel": "Etanol"
+        "valorsemDesconto": 19060
     },
     {
         "id":22,
@@ -303,11 +217,7 @@
                 "https://dhqlmcogwd1an.cloudfront.net/images/phocagallery/Honda/africa-twin-2024/10-honda-africa-twin-2024-estudio-rojo-01.jpg"
     ],
         "nome": "CRF 1100L Africa Twin",
-        "valorsemDesconto": 81100,
-        "Cilindrada": "1.084 cc" ,
-        "PotenciaMaxima": "99,3 cv a 7.500 rpm",
-        "TorqueMaximo": "10,5 kgf.m a 6.000 rpm",
-        "Combustivel": "Gasolina"
+        "valorsemDesconto": 81100
     },
     {
         "id":23,
@@ -317,11 +227,7 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP5RwDXrWeRj53qku9zxpzzg8nfNfqFMxUmjbItRuRSYIsoDd1VmM-hwJ2sIB0LEiYczk&usqp=CAU"
     ],
         "nome": "XRE 190",
-        "valorsemDesconto": 20770,
-        "Cilindrada": "184,4 cc" ,
-        "PotenciaMaxima": "16,4 cv a 8.500 rpm",
-        "TorqueMaximo": "1,66 kgf.m a 6.000 rpm",
-        "Combustivel": "Etanol"
+        "valorsemDesconto": 20770
     },
     {
         "id":24,
@@ -331,10 +237,6 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNCexeqn37J7olzYNGAryuMY4gcDlVMa_ZA&usqp=CAU"
     ],
         "nome": "TRX 420 FourTrax",
-        "valorsemDesconto":  47820,
-        "Cilindrada": "420 cc" ,
-        "PotenciaMaxima": "26,9 cv a 6.250 rpm",
-        "TorqueMaximo": " 3,4 kgf.m a 5.000 rpm",
-        "Combustivel": "Gasolina"
+        "valorsemDesconto":  47820
     }
 ]
