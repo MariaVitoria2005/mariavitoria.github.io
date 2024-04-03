@@ -1,11 +1,15 @@
-
+/* <svg>
+        <use xlink:href="/sites/hda/themes/hondahda/assets/img/sprite.svg#location"></use>
+    </svg>*/
 .lista-card{
     display:flex;
     flex-wrap: wrap;
     cursor: pointer;
-    column-gap: 20px;
+    column-gap: 30px;
     row-gap: 20px;
-   
+    top: 50px;
+    display: flex;
+ 
 }
 .card{
     /*border: 1px solid #868686;*/
@@ -21,7 +25,6 @@
     color: rgb(255, 0, 0);
     font-size: 30px;
 }
-
 .textos{
     justify-content: space-between;
     height: 100%;
@@ -38,12 +41,10 @@
     flex-direction: row;
     justify-content: center;
 }
-/*p {
-  margin: 20px;
-}*/
 .moto{
     background-repeat: no-repeat;
     background-size: cover;
+   
 }
 .grupo-img:hover{
     transform: scale(1.35);
@@ -51,7 +52,7 @@
 }
 /**/
 .hello {
-    display: block;
+  /* display: block;*/
     text-align: right;
     line-height:100%;
 }
@@ -59,44 +60,68 @@
     display: flex;
     background-color: rgb(204, 198, 198);
     flex-direction: column;
-   border-bottom: 2px red;
+    border-bottom: 2px red;
    
 }
 .logo{
-    color: #c00;
-    left: 100px;
-    margin: 0 auto;
-    position: absolute;
-    right: 200px;
-    top: 10px;
-    width: 240px;
+    /*left: 100px;*/
+    /*margin: 0 auto;*/
+    /*right: 200px;
+    /*top: 10px;*/
+   /* width: 240px;*/
+    position: center;
     height: 80px;
     display: flex;
     
 }
 .btn{
-    background: #f5f5f5;
-    /*bottom: 10px;*/
-    color: #c00;
-    font-size: 15px;
-    /*max-width: 20px;*/
-   /* min-width: 20px;*/
-    /*padding: 12px 10px;*/
+   /*background: #f5f5f5;
+    bottom: 10px;
+    box-shadow: 6px 6px 8px rgba(146,146,146,146);
+    padding: 12px 10px;
     top: 10px;
+    position: absolute;
+    min-width: 170px
+    max-width: 170px
+    top: 10px;*/
+
+    /*color: #c00;
+    font-size: 15px;
     display: flex;
     border: 1px solid #868686;
-    border-radius: 10px ;
-    /*box-shadow: 6px 6px 8px rgba(146,146,146,146);*/
     align-items: center;
-    text-decoration: none;
     width: 100px;
     height: 100px;
     position: relative;
+    font-size: 17px;*/
+    
+    background: #f5f5f5;
+    bottom: 10px;
+    color: #c00;
+    font-size: 17px;
+    padding: 12px 10px;
+    right: 10px;
+    text-decoration: none;
+    border-radius: 5px 
+    
+    
 }
 .links{
     width: 20px;
     list-style: none;
-    float: left;
     padding-left: 0%;
-    
+    line-height:30px;
+   
+
+
+   /* list-style-type: none;
+    padding: 0;
+    width: 20px;*/
+  
+}
+.oii{
+    justify-content:space-between;
+    display: flex;
+    margin-right: 10px;
+    margin-left: 20px;
 }
