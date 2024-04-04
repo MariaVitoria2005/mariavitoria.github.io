@@ -27,6 +27,8 @@ async function busca(){
     for(let card of carrosCard){
         card.addEventListener("click",CliqueiCard)
     } 
+
+    
 }
 busca()
 
@@ -37,8 +39,7 @@ function CliqueiCard(){
 
 /*const  fundoID =document.getElementById("moto");
 fundoID.style.backgroundImage="url('https://i.pinimg.com/736x/11/95/63/11956381796b638c599e78813dc98f1d.jpg')"
-     <p> Cilindrada: ${produto.Cilindrada}.</p>
-                        <p>  Potência Máxima: ${produto.PotenciaMaxima}.</p>
-                        <p> Torque Máximo: ${produto.TorqueMaximo}.</p>
-                        <p> Combustível: ${produto.Combustivel} .</p>
-                     */
+    <p> Cilindrada: ${produto.Cilindrada}.</p>
+    <p>  Potência Máxima: ${produto.PotenciaMaxima}.</p>
+    <p> Torque Máximo: ${produto.TorqueMaximo}.</p>
+    <p> Combustível: ${produto.Combustivel} .</p>   */

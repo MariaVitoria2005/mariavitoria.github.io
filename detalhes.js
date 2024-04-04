@@ -22,7 +22,10 @@ async function verDetalhe(){
         </div>
       
     `
-
+    document.getElementById("detalhes").innerHTML +=`
+        
+           
+    `
     for(let x of produtos[inProduto].img){
         document.getElementById("mini-img").innerHTML+=`
         <img src="${x}" class="miniatura" height="80" width="auto" style= "border: 2px solid #000; border-radius:5px" >
