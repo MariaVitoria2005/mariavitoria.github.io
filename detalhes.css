@@ -10,22 +10,33 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-.wrapper {
+/*.wrapper {
     margin: 0 auto;
     max-width: 1024px;
-}
-.-activesection [data-component*=title-mask] {
+}*/
+/*.title-mask {
     -ms-filter: none;
     filter: none;
     opacity: 1;
+}*/
+.hello{
+
+    display: flex;
+    text-align: center;
+    column-gap: 50px;
 }
-.specifications .tabs-holder.-activesection {
+/*.caracteristicas{
+    display: flex;
+    right: 100px;
+    position: relative;
+}*/
+/*.activesection {
     -ms-filter: none;
     filter: none;
     opacity: 1;
     transform: none;
-}
-.specifications.-desktop .tabs-wrapper {
+}*/
+/*.specifications.-desktop .tabs-wrapper {
     display: table;
     margin: 0 0 20px;
     width: 100%;
@@ -54,4 +65,4 @@ h3 {
     display: table;
     margin: 0 0 20px;
     width: 100%;
-}
+}*/
