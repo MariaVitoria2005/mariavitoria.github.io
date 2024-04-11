@@ -1,3 +1,112 @@
+/*
+    <section class="highlighted-products" data-component="highlighted-products" data-itens="7">
+        <div class="slider-title">
+            <h2>Destaques</h2>
+        </div>
+        <div class="principal">
+            <div class="hello" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
+
+                <div class="slide" style="margin-right: 24px;">
+                    <a href="/motos/honda-store/capacetes/capacete-honda-twister-special-edition" class="pai">
+                        <div class="product-image">
+                            <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2023-01/AMARELO_1.jpg.webp?itok=jE-10jBe" alt="Capacete Honda Twister Special Edition" height="450px">
+                        </div>
+                        <div class="oii">
+                                <p class="product-title">Capacete Honda Twister Special Edition</p>
+                            <div class="product-wrapper">
+                                <p class="product-price">R$ 780,00</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="slide" style="margin-right: 24px;">
+                    <a href="/motos/honda-store/produtos-para-pilotos/flagship/calca-de-protecao-honda">
+                        <div class="product-image">
+                            <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2023-01/honda-store-vestuario-cal%C3%A7a-prote%C3%A7%C3%A3o-estonada-1.webp?itok=KWF-MSG7" alt="Calça de Proteção Honda" height="450px">
+                        </div>
+                        <div class="oii">
+                                <p class="product-title">Calça de Proteção Honda</p>
+                            <div class="product-wrapper">
+                                <p class="product-price">R$ 511,50</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="slide" style="margin-right: 24px;">
+                    <a href="/motos/honda-store/produtos-para-pilotos/flagship/jaqueta-honda-summer-evolution">
+                        <div class="product-image">
+                            <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2023-01/honda-store-%20jaqueta-honda-summer-evolution-preto-vermelha-1_0.png.webp?itok=1sKhNA2Y" alt="Jaqueta Honda Summer Evolution" height="450px">
+                        </div>
+                        <div class="oii">
+                                <p class="product-title">Jaqueta Honda Summer Evolution</p>
+                            <div class="product-wrapper">
+                                <p class="product-price">R$ 828,58</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="slide " style="margin-right: 24px;">
+                    <a href="/motos/honda-store/produtos-para-pilotos/jaqueta-honda-inverno-impermeavel">
+                        <div class="product-image">
+                            <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2022-04/Honda14432.jpg.webp?itok=Iuek6GnR" alt="Jaqueta Honda Inverno Impermeável" height="450px">
+                        </div>
+                        <div class="oii">
+                                <p class="product-title">Jaqueta Honda Inverno Impermeável</p>
+                            <div class="product-wrapper">
+                                <p class="product-price">R$ 1.127,87</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="slide " style="margin-right: 24px;">
+                    <a href="/motos/honda-store/capacetes/capacete-honda-dlx-hfs">
+                        <div class="product-image">
+                            <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2022-09/CAPACETE%20HONDA%20DLX%20HFS%20PTOF-GRA_1.jpg.webp?itok=-quqRK_z" alt="Capacete Honda DLX HFS" height="450px">
+                            <p class="product-title">Capacete Honda DLX HFS</p>
+                            <p class="product-price">R$ 242,80</p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="slide " style="margin-right: 24px;">
+                    <a href="/motos/honda-store/produtos-para-pilotos/conjunto-de-chuva-honda-nylon">
+                        <div class="product-image">
+                            <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2022-04/Honda14645.jpg.webp?itok=gzzwJVim" alt="Conjunto de Chuva Honda Nylon" height="450px">
+                            <p class="product-title">Conjunto de Chuva Honda Nylon</p>
+                            <p class="product-tag-price">A partir de</p>
+                            <p class="product-price">R$ 347,18</p>
+                        </div> 
+                    </a>
+                </div>
+
+                <div class="slide" style="margin-right: 24px;">
+                    <a href="/motos/honda-store/capacetes/capacete-linha-especial-cg-hf3">
+                        <div class="product-image">
+                            <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2022-10/2_0.jpg.webp?itok=b1VRyLl4" alt="Capacete linha Especial CG HF3" height="450px">
+                            <p class="product-title">Capacete linha Especial CG HF3</p>
+                            
+                        </div>
+                        <div class="product-content">
+                                
+                            <div class="product-wrapper">
+                                <p class="product-price">R$ 583,51</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+    
+            <div class="swiper-button-next swiper-button-white" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"></div>
+            <div class="swiper-button-prev swiper-button-white swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true"></div>
+            <div class="swiper-scrollbar" style="transition-duration: 0ms;"></div>
+            <div class="swiper-scrollbar-drag" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms; width: 576.269px;"></div>
+            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+        </div>
+    </section>*/
 .mini-img{
     column-gap: 10px;
     display: flex;
@@ -10,59 +119,14 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-/*.wrapper {
-    margin: 0 auto;
-    max-width: 1024px;
-}*/
-/*.title-mask {
-    -ms-filter: none;
-    filter: none;
-    opacity: 1;
-}*/
-.hello{
 
-    display: flex;
-    text-align: center;
+.hello{
+    width: 200px;
+    height: 200px;
+    text-align:right;
+    margin-left: 10px;
+    
+}
+.principal{
     column-gap: 50px;
 }
-/*.caracteristicas{
-    display: flex;
-    right: 100px;
-    position: relative;
-}*/
-/*.activesection {
-    -ms-filter: none;
-    filter: none;
-    opacity: 1;
-    transform: none;
-}*/
-/*.specifications.-desktop .tabs-wrapper {
-    display: table;
-    margin: 0 0 20px;
-    width: 100%;
-}
-.specifications dt {
-    color: #000;
-    cursor: pointer;
-    font-size: 18px;
-    font-weight: 700;
-    margin: 1px 0;
-    padding: 10px;
-    position: relative;
-    transition: background .15s cubic-bezier(.455,.03,.515,.955);
-}
-h3 {
-    display: block;
-    font-size: 1.17em;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    font-weight: bold;
-    unicode-bidi: isolate;
-}
-.specifications.-desktop .tabs-wrapper {
-    display: table;
-    margin: 0 0 20px;
-    width: 100%;
-}*/

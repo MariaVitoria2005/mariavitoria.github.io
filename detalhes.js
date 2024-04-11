@@ -24,161 +24,67 @@ async function verDetalhe(){
     `
 
     document.getElementById("detalhes").innerHTML +=`
+        <div class="product-image">
+            <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2023-01/AMARELO_1.jpg.webp?itok=jE-10jBe" alt="Capacete Honda Twister Special Edition" height="450px">
+        </div>
+        <div class="oii">
+                <p class="product-title">Capacete Honda Twister Special Edition</p>
+            <div class="product-wrapper">
+                <p class="product-price">R$ 780,00</p>
+            </div>
+        </div> 
+
+        <div class="product-image">
+            <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2023-01/honda-store-vestuario-cal%C3%A7a-prote%C3%A7%C3%A3o-estonada-1.webp?itok=KWF-MSG7" alt="Calça de Proteção Honda" height="400px">
+        </div>
+            <div class="oii">
+                <p class="product-title">Calça de Proteção Honda</p>
+            <div class="product-wrapper">
+                <p class="product-price">R$ 511,50</p>
+            </div>
+        </div>
+
+        <div class="product-image">
+            <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2023-01/honda-store-%20jaqueta-honda-summer-evolution-preto-vermelha-1_0.png.webp?itok=1sKhNA2Y" alt="Jaqueta Honda Summer Evolution" height="400px">
+        </div>
+        <div class="oii">
+                <p class="product-title">Jaqueta Honda Summer Evolution</p>
+            <div class="product-wrapper">
+                <p class="product-price">R$ 828,58</p>
+            </div>
+        </div>
+
+        <div class="product-image">
+        <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2022-04/Honda14432.jpg.webp?itok=Iuek6GnR" alt="Jaqueta Honda Inverno Impermeável" height="400px">
+        </div>
+        <div class="oii">
+                <p class="product-title">Jaqueta Honda Inverno Impermeável</p>
+            <div class="product-wrapper">
+                <p class="product-price">R$ 1.127,87</p>
+            </div>
+        </div>
+
+        <div class="product-image">
+            <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2022-09/CAPACETE%20HONDA%20DLX%20HFS%20PTOF-GRA_1.jpg.webp?itok=-quqRK_z" alt="Capacete Honda DLX HFS" height="400px">
+            <p class="product-title">Capacete Honda DLX HFS</p>
+            <p class="product-price">R$ 242,80</p>
+        </div>
+
         
-           
-    `
-    x=`
-    <div class="wrapper">
-    <div data-component="title">
-      <h2 class="main-title" id="especificacoes"><span class="mask" style="color:blue">Especificações/Ficha Técnica</span></h2>
-    </div>
-    <div class="activesection" data-component="activesection">
-        <div class="hello">
-            <dt>
-                <h3>Motor</h3>
-            </dt>
-            <dt>
-                <h3>Sistema elétrico</h3>
-            </dt>
-            <dt>
-                <h3>Capacidade</h3>
-            </dt>
-            <dt >
-                <h3>Dimensões</h3>
-            </dt>
-            <dt>
-                <h3>Chassi</h3>
-            </dt>
+        <div class="product-image">
+            <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2022-04/Honda14645.jpg.webp?itok=gzzwJVim" alt="Conjunto de Chuva Honda Nylon" height="400px">
+            <p class="product-title">Conjunto de Chuva Honda Nylon</p>
+            <p class="product-tag-price">A partir de</p>
+            <p class="product-price">R$ 347,18</p>
+        </div> 
+        
+        <div class="product-image">
+            <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2022-10/2_0.jpg.webp?itok=b1VRyLl4" alt="Capacete linha Especial CG HF3" height="400px">
+            <p class="product-title">Capacete linha Especial CG HF3</p>
+            <p class="product-price">R$ 583,51</p>
         </div>
-            <dl class="tabs">
-                                    
-                <dd class="caracteristicas">
-                    <p class="item">
-                        <strong>Tipo:</strong> 
-                        <span id="valTipo">OHC, Monocilíndrico, 4 tempos, arrefecido a ar</span>
-                    </p>
-                    <p class="item">
-                        <strong>Cilindrada:</strong> 
-                        <span id="valCilindrada">162,7 cc</span>
-                    </p>
-                    <p class="item">
-                        <strong>Potência Máxima:</strong> 
-                        <span id="valPotência Máxima">14,9 cv a 8.000 rpm</span>
-                    </p>
-                    <p class="item">
-                        <strong>Torque Máximo:</strong> 
-                        <span id="valTorque Máximo">1,40 kgf.m a 7.000 rpm</span>
-                    </p>
-                    <p class="item">
-                        <strong>Transmissão:</strong> 
-                        <span id="valTransmissão">5 velocidades</span>
-                    </p>
-                    <p class="item">
-                        <strong>Sistema de Partida:</strong> 
-                        <span id="valSistema de Partida">Elétrico</span>
-                    </p>
-                    <p class="item">
-                        <strong>Diâmetro x Curso:</strong> 
-                        <span id="valDiâmetro x Curso">57,3 x 63,0 mm</span>
-                    </p>
-                    <p class="item">
-                        <strong>Relação de Compressão:</strong> 
-                        <span id="valRelação de Compressão">9,5 : 1</span>
-                    </p>
-                    <p class="item">
-                        <strong>Sistema Alimentação:</strong> 
-                        <span id="valSistema Alimentação">Injeção Eletrônica PGM FI</span>
-                    </p>
-                    <p class="item">
-                        <strong>Combustível:</strong> 
-                        <span id="valCombustível">Gasolina</span>
-                    </p>
-                </dd>
-                                                    
-                <dd class="caracteristicas">
-                    <p class="item">
-                        <strong>Ignição:</strong> 
-                        <span id="valIgnição">Eletrônica</span>
-                    </p>
-                    <p class="item">
-                        <strong>Bateria:</strong> 
-                        <span id="valBateria">12V - 4 Ah</span>
-                    </p>
-                    <p class="item">
-                        <strong>Farol:</strong> 
-                        <span id="valFarol">35/ 35W</span>
-                    </p>
-                </dd>
-                                                    
-                <dd class="caracteristicas">
-                    <p class="item">
-                        <strong>Tanque de Combustível:</strong> 
-                        <span id="valTanque de Combustível">14,6 litros</span>
-                    </p>
-                    <p class="item">
-                        <strong>Óleo do Motor:</strong> 
-                        <span id="valÓleo do Motor">1,2 litro</span>
-                    </p>
-                </dd>
-                                                    
-                <dd class="caracteristicas">
-                    <p class="item">
-                        <strong>Comprimento x Largura x Altura:</strong> 
-                        <span id="valComprimento x Largura x Altura">1996 x 739 x 1087 mm</span>
-                    </p>
-                    <p class="item">
-                        <strong>Distância entre eixos:</strong> 
-                        <span id="valDistância entre eixos">1315 mm</span>
-                    </p>
-                    <p class="item">
-                        <strong>Distância mínima do solo:</strong> 
-                        <span id="valDistância mínima do solo">170 mm</span>
-                    </p>
-                    <p class="item">
-                        <strong>Altura do assento:</strong> 
-                        <span id="valAltura do assento">790 mm</span>
-                    </p>
-                    <p class="item">
-                        <strong>Peso Seco:</strong> 
-                        <span id="valPeso Seco">115 kg</span>
-                    </p>
-                </dd>
-                                                    
-                <dd class="caracteristicas">
-                    <p class="item">
-                        <strong>Tipo:</strong> 
-                        <span id="valTipo">Diamond Frame</span>
-                    </p>
-                    <p class="item">
-                        <strong>Suspensão Dianteira/Curso:</strong> 
-                        <span id="valSuspensão Dianteira/Curso">Garfo telescópico / 135 mm</span>
-                    </p>
-                    <p class="item">
-                        <strong>Suspensão Traseira/Curso:</strong> 
-                        <span id="valSuspensão Traseira/Curso">Dois amortecedores / 106 mm</span>
-                    </p>
-                    <p class="item">
-                        <strong>Freio Dianteiro/Diâmetro:</strong> 
-                        <span id="valFreio Dianteiro/Diâmetro">A tambor / 130 mm</span>
-                    </p>
-                    <p class="item">
-                        <strong>Freio Traseiro/Diâmetro:</strong> 
-                        <span id="valFreio Traseiro/Diâmetro">A tambor / 130 mm</span>
-                    </p>
-                    <p class="item">
-                        <strong>Pneu Dianteiro:</strong> 
-                        <span id="valPneu Dianteiro">80/100 -18</span>
-                    </p>
-                    <p class="item">
-                        <strong>Pneu Traseiro:</strong> 
-                        <span id="valPneu Traseiro">90/90 -18</span>
-                    </p>
-                </dd>
-            </dl>                                      
-        </div>
-    </div>
-</div>    
     `
+   
     for(let x of produtos[inProduto].img){
         document.getElementById("mini-img").innerHTML+=`
         <img src="${x}" class="miniatura" height="80" width="auto" style= "border: 2px solid #000; border-radius:5px" >
