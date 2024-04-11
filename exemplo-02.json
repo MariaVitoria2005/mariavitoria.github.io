@@ -7,7 +7,8 @@
         "https://www.honda.com.br/motos/sites/hda/files/2023-08/moto-honda-cg-160-start--prata-met%C3%A1lico_8.webp"
         ],
         "nome": "CG 160 Start",
-        "valorsemDesconto": 14360
+        "valorsemDesconto": 14360,
+        "video":"https://www.youtube.com/embed/trm79N-iE_0?si=bZD-Wej86KxtJiun"
     },
     {
         "id":2,
@@ -17,7 +18,8 @@
             "https://i.pinimg.com/originals/77/40/30/77403025e38089b21df688e51f8bdd7d.jpg"
         ] ,
         "nome": "CG 160 Fan",
-        "valorsemDesconto": 15750
+        "valorsemDesconto": 15750,
+        "video":"https://www.youtube.com/embed/XuEXgd92Z3w?si=QbFj1xLXndMZ1Sey" 
     },
     {
         "id":3,
