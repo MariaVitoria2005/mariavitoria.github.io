@@ -33,7 +33,7 @@ async function verDetalhe(){
         <div class="hello">
             <div class="principal01">
                 <div class="product-image">
-                    <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2023-01/AMARELO_1.jpg.webp?itok=jE-10jBe" alt="Capacete Honda Twister Special Edition" height="350px">
+                    <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2023-01/AMARELO_1.jpg.webp?itok=jE-10jBe"  height="350px">
                 </div>
                 <div class="oii">
                         <p class="product-title">Capacete Honda Twister Special Edition</p>
@@ -45,43 +45,43 @@ async function verDetalhe(){
 
             <div class="principal01">
                 <div class="product-image">
-                    <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2023-01/honda-store-vestuario-cal%C3%A7a-prote%C3%A7%C3%A3o-estonada-1.webp?itok=KWF-MSG7" alt="Calça de Proteção Honda" height="350px">
+                    <img src="https://m.media-amazon.com/images/I/81ms0JZ+TJL._AC_SX679_.jpg" width="280px" height="300px">
                 </div>
                     <div class="oii">
-                        <p class="product-title">Calça de Proteção Honda</p>
+                        <p class="product-title">Suporte de telefone para motocicleta</p>
                     <div class="valor">
-                        <p class="product-price">R$ 511,50</p>
+                        <p class="product-price">R$ 139,00</p>
                     </div>
                 </div>
             </div>
 
             <div class="principal01">
                 <div class="product-image">
-                    <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2023-01/honda-store-%20jaqueta-honda-summer-evolution-preto-vermelha-1_0.png.webp?itok=1sKhNA2Y" alt="Jaqueta Honda Summer Evolution" height="350px">
+                    <img src="https://m.media-amazon.com/images/I/61xWm3G7E3L._AC_UL320_.jpg" width="290px" height="300px">
                 </div>
                 <div class="oii">
-                        <p class="product-title">Jaqueta Honda Summer Evolution</p>
+                        <p class="product-title"> jaqueta e calça para chuva com bolsa de armazenamento</p>
                     <div class="valor">
-                        <p class="product-price">R$ 828,58</p>
+                        <p class="product-price">R$ 349,20</p>
                     </div>
                 </div>
             </div>
 
             <div class="principal01">
                 <div class="product-image">
-                <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2022-04/Honda14432.jpg.webp?itok=Iuek6GnR" alt="Jaqueta Honda Inverno Impermeável" height="350px">
+                <img src="https://m.media-amazon.com/images/I/61Z0fwrZGFL._AC_SX569_.jpg"  height="350px">
                 </div>
                 <div class="oii">
-                        <p class="product-title">Jaqueta Honda Inverno Impermeável</p>
+                        <p class="product-title">Luva X11 Protetora Blackout 2 Masculina</p>
                     <div class="valor">
-                        <p class="product-price">R$ 1.127,87</p>
+                        <p class="product-price">R$ 86,89 </p>
                     </div>
                 </div>
             </div>
 
             <div class="principal01">
                 <div class="product-image">
-                    <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2022-09/CAPACETE%20HONDA%20DLX%20HFS%20PTOF-GRA_1.jpg.webp?itok=-quqRK_z" alt="Capacete Honda DLX HFS" height="350px">
+                    <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2022-09/CAPACETE%20HONDA%20DLX%20HFS%20PTOF-GRA_1.jpg.webp?itok=-quqRK_z"  height="350px">
                     <div class="oii">
                         <p class="product-title">Capacete Honda DLX HFS</p>
                         <p class="valor">R$ 242,80</p>
@@ -91,18 +91,17 @@ async function verDetalhe(){
             
             <div class="principal01">
                 <div class="product-image">
-                    <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2022-04/Honda14645.jpg.webp?itok=gzzwJVim" alt="Conjunto de Chuva Honda Nylon" height="350px">
+                    <img src="https://m.media-amazon.com/images/I/41Jd8nIAqBL._AC_UL320_.jpg" width="250px" height="300px">
                     <div class="oii">
                         <p class="product-title">Conjunto de Chuva Honda Nylon</p>
-
-                        <p class="valor">R$ 347,18</p>
+                        <p class="valor">R$ 91,38</p>
                     </div>
                 </div> 
             </div>
 
             <div class="principal01">
                 <div class="product-image">
-                    <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2022-10/2_0.jpg.webp?itok=b1VRyLl4" alt="Capacete linha Especial CG HF3" height="350px">
+                    <img src="https://www.honda.com.br/motos/honda-store/sites/honda_store/files/styles/preview_product/public/2022-10/2_0.jpg.webp?itok=b1VRyLl4"  height="350px">
                     <div class="oii">
                         <p class="product-title">Capacete linha Especial CG HF3</p>
                         <p class="valor">R$ 583,51</p>

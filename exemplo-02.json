@@ -29,7 +29,8 @@
                "https://motonewsbrasil.com/wp-content/uploads/2021/06/honda-cg-160-titan-2022-4.jpeg"    
         ],
         "nome": "CG 160 Titan",
-        "valorsemDesconto":17100.00
+        "valorsemDesconto":17100.00,
+        "video":"https://www.youtube.com/embed/WK7afMqcOVk?si=R3a-1w-yUKt_lvj2" 
     },
     {
         "id":4,
@@ -39,7 +40,8 @@
                 "https://http2.mlstatic.com/D_NQ_NP_874268-MLB47879806249_102021-O.webp"
         ],
         "nome": "CG 160 Cargo",
-        "valorsemDesconto":15660
+        "valorsemDesconto":15660,
+        "video":"https://www.youtube.com/embed/BhaxHfTh8Fo?si=4HRWzZm5uHimGL4l" 
     },
     {
         "id":5,
@@ -49,7 +51,8 @@
                 "https://down-br.img.susercontent.com/file/6a8d31590592f1aededcfeeabc1ff3ed"
         ],
         "nome": "Pop 110i",
-        "valorsemDesconto": 9570
+        "valorsemDesconto": 9570,
+        "video":"https://www.youtube.com/embed/JFAxTHjdtgY?si=wkwfMnvv0TjsCZGz" 
     },
     {
         "id":6,
@@ -59,7 +62,8 @@
                 "https://i0.wp.com/www.autodestaque.net.br/wp-content/uploads/2022/01/1HondaBiz110i20221.jpg?fit=1024%2C683&ssl=1"
             ],
         "nome": "Biz 110i",
-        "valorsemDesconto": 11670
+        "valorsemDesconto": 11670,
+        "video":"https://www.youtube.com/embed/sBioDrqi0g0?si=hdTqxuTMTRz6ksnh" 
     },
     {
         "id":7,
@@ -69,7 +73,8 @@
                 "https://cmssaladeimprensa.honda.com.br//sites/default/files/styles/hd_exibicao/public/2021-07/Biz%20125_EST_%20%281%29.jpg?itok=nHDs2-nf"
     ],
         "nome": "Biz 125",
-        "valorsemDesconto": 14610 
+        "valorsemDesconto": 14610,
+        "video":"https://www.youtube.com/embed/8_uhMbOEHc4?si=zp_Xqiy7f1R5ubUI"  
     }, 
     {
         "id":8,
@@ -79,7 +84,8 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmwHwBpgTWnWs_vFLcyOAESsoOO1Ba0otNag&usqp=CAU"
     ],
         "nome": "Elite 125",
-        "valorsemDesconto": 12580
+        "valorsemDesconto": 12580,
+        "video":"https://www.youtube.com/embed/pgid9yGnjgI?si=TT2pgnuz0D5X2bX5" 
     },
     {
         "id":9,
@@ -89,7 +95,8 @@
                 "https://www.otoinfo.id/wp-content/uploads/2023/12/honda-pcx150-slant-rear-view-full-image-112259-4.webp"
     ],
         "nome": "PCX",
-        "valorsemDesconto": 16800
+        "valorsemDesconto": 16800,
+        "video":"https://www.youtube.com/embed/AyYYSTRvScw?si=lARYodPKRPE8-G8t" 
     },
     {
         "id":10,
@@ -99,7 +106,8 @@
                 "https://autocdn.co.uk/cdn-cgi/imagedelivery/JC4X6oe6GKVO4ZI4xd1Czg/cab9e2eb-4dd2-4cd9-2664-c58c0446eb00/raw"
         ],
         "nome": "Honda ADV",
-        "valorsemDesconto": 23060
+        "valorsemDesconto": 23060,
+        "video":"https://www.youtube.com/embed/5lKdaldYRks?si=PRCwy04sh1SG5dng" 
     },
     {
         "id":11,
@@ -109,7 +117,8 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq7Nrj1domTipMRQgYG5WGxAvCJJEl8S3AzfKGt4S-KjyK5Fe9ZM5saY9w5Bls1pgEmlc&usqp=CAU"
     ],
         "nome": "Forza 350",
-        "valorsemDesconto":  50300
+        "valorsemDesconto":  50300,
+        "video":"https://www.youtube.com/embed/3vTbhY9xniY?si=klkelNcnU3NT1z3E" 
     },
     {
         "id":12,
@@ -119,7 +128,8 @@
                 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiplGdYLH4vqzww-yh8VHlaz_hwBGrFs-wdJ_bA0COyGMMiZQiQjQluNIrydi3TwIls2x8caQSCI7D6Y6OpiTgE3_0tZ4MMOh7G765hJVmI8uC_fY8VrO3A7Gadb6HTPmyPpgGeg09A6y3ThGAEuhla1-_saL1pvAZ6YCHi8cEcCV2Ai4eUlqxwe2t0/s2560/Honda-CB-300-Twister-2023%20%2820%29.jpg"
     ],
         "nome": "CB 300F Twister",
-        "valorsemDesconto":  22370 
+        "valorsemDesconto":  22370 ,
+        "video":"https://www.youtube.com/embed/1gFSxbF55L4?si=6V49SnGUbI7huchW" 
     },
     {
         "id":13,
@@ -129,7 +139,8 @@
                 "https://i.pinimg.com/736x/ae/fe/4c/aefe4c79a1247274db85a7227e8042b4.jpg"
     ],
         "nome": "CB 500F",
-        "valorsemDesconto": 40660
+        "valorsemDesconto": 40660,
+        "video":"https://www.youtube.com/embed/0zy1mMiO4nA?si=9N2I2utkp6bRN8du"
     },
     {
         "id":14,
@@ -139,7 +150,8 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2L2fbNQhGgp9nP3xsycmYw4MpjH3d96N0VHtyjwlVtjH0ipsz2RNSMUGtw7nHT1e-2UA&usqp=CAU"
     ],
         "nome": "CB 650R Neo Sports Café",
-        "valorsemDesconto": 52590
+        "valorsemDesconto": 52590,
+        "video":"https://www.youtube.com/embed/l43rR4wVKdI?si=ldHTYJ-wrxYfGcSI" 
     },
      {
         "id":15,
@@ -149,7 +161,8 @@
                 "https://www.clubmotor.com.br/wp-content/uploads/2023/05/Nova-Honda-CB-1000R-2024-Precocores-detalhes-exclusivos-e-lancamento.jpg"
     ],
         "nome": "CB 1000R Neo Sports Café",
-        "valorsemDesconto": 78870
+        "valorsemDesconto": 78870,
+        "video":"https://www.youtube.com/embed/dxc98_rIRgU?si=Xrq3g36NQakvViMk" 
     },
     {
         "id":16,
@@ -159,7 +172,8 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNZAmyKYmPwWKSJf5Y-PL_Gd6y-MIZNlDlGsczxKGAVuPpDrPT0REkOPT1Um0nUfp7Q0&usqp=CAU"
     ],
         "nome": "CB 1000R Black Edition",
-        "valorsemDesconto": 87730
+        "valorsemDesconto": 87730,
+        "video":"https://www.youtube.com/embed/BAhLA0ZN1vU?si=OfjKMlPQMdPoie93" 
     },
     {
         "id":17,
@@ -169,7 +183,8 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlNyv-UC47rxryjMZhCxMWyZFyTDaeO1KlRg&usqp=CAU"
     ],
         "nome": "NC 750X",
-        "valorsemDesconto": 52680
+        "valorsemDesconto": 52680,
+        "video":"https://www.youtube.com/embed/FbthXWYL1Yg?si=iJZKNv9kLAIxfi-p" 
     },
     {
         "id":18,
@@ -179,7 +194,8 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbh_DtefvjvQWgFY9PBZ3rUYmAgha-G0XoKBCBNQt3C7eKdcLs-ee0PDVDqgnZ27Sd5rE&usqp=CAU"
     ],
         "nome": "CB 500X",
-        "valorsemDesconto": 43260
+        "valorsemDesconto": 43260,
+        "video":"https://www.youtube.com/embed/V0KWxKnaW7c?si=iPtbZZnoxeqdOd-Y" 
     },
     {
         "id":19,
@@ -189,7 +205,8 @@
                 "https://images.squarespace-cdn.com/content/v1/5c8ff4a1fd67933da7cdf5d8/1560367057805-3U5N6FK0W0WQZ9LF41QE/cb650-1.jpg?format=1500w"
     ],
         "nome": "CBR 650R",
-        "valorsemDesconto": 55360
+        "valorsemDesconto": 55360,
+        "video":"https://www.youtube.com/embed/bz3yiwlvfck?si=W_vBPJXTnVsyY6p0" 
     },
     {
         "id":20,
@@ -199,7 +216,8 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIdsvNAJJh8PS21AhNVZ9v4yvJqqHJ8472KzGyQMCV4q1mO8adEwROjDPnNuyXkIX1o1s&usqp=CAU"
     ],
         "nome": "CBR 1000RR-R FIREBLADE SP",
-        "valorsemDesconto":  193500
+        "valorsemDesconto":  193500,
+        "video":"https://www.youtube.com/embed/RiC3kUhw9SY?si=612l1Hl001n1e8KL" 
     },
     {
         "id":21,
@@ -209,7 +227,8 @@
                 "https://img1.icarros.com/dbimg/imgnoticia/4/23380_1"
     ],
         "nome": "NXR 160 Bros ESDD",
-        "valorsemDesconto": 19060
+        "valorsemDesconto": 19060,
+        "video":"https://www.youtube.com/embed/qpHcUUv22Sc?si=X6O9d4GKWKLAsoiD" 
     },
     {
         "id":22,
@@ -219,7 +238,8 @@
                 "https://dhqlmcogwd1an.cloudfront.net/images/phocagallery/Honda/africa-twin-2024/10-honda-africa-twin-2024-estudio-rojo-01.jpg"
     ],
         "nome": "CRF 1100L Africa Twin",
-        "valorsemDesconto": 81100
+        "valorsemDesconto": 81100,
+        "video":"https://www.youtube.com/embed/7WQCso9lH-o?si=WLPuE-TsiPH3OXBL" 
     },
     {
         "id":23,
@@ -229,7 +249,8 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP5RwDXrWeRj53qku9zxpzzg8nfNfqFMxUmjbItRuRSYIsoDd1VmM-hwJ2sIB0LEiYczk&usqp=CAU"
     ],
         "nome": "XRE 190",
-        "valorsemDesconto": 20770
+        "valorsemDesconto": 20770,
+        "video":"https://www.youtube.com/embed/P1jJ2HtAtoU?si=CplCELoUgQ8jnqH_" 
     },
     {
         "id":24,
@@ -239,6 +260,7 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNCexeqn37J7olzYNGAryuMY4gcDlVMa_ZA&usqp=CAU"
     ],
         "nome": "TRX 420 FourTrax",
-        "valorsemDesconto":  47820
+        "valorsemDesconto":  47820,
+        "video":"https://www.youtube.com/embed/TT0DPsE11hE?si=34Q-5v81PwSia3v1" 
     }
 ]
