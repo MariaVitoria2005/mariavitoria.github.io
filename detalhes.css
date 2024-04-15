@@ -151,3 +151,29 @@
     color: red;
     font-size: 20px;
 }
+.ultimo{
+    margin: 0 auto;
+    max-width: 1024px;
+    text-decoration: none;
+   
+}
+.services.services-k2ga .main-title {
+    margin: 0;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    padding: 55px 0;
+    color: #222;
+}
+.ultimo01{
+    display: flex;
+    list-style: none; 
+    border-radius: 10px;
+    line-height:25px;
+    margin: 0;
+    box-shadow: 0 0 20px #aaa;
+    padding-right:20px;
+    font-size: 17px;
+    border-bottom: 1px solid red;
+    column-gap: 50px;
+}

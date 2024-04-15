@@ -25,11 +25,36 @@ async function verDetalhe(){
         </iframe>
         </div>
         <div class="mini-img" id="mini-img"> </div>
-
-
     `
+  
+    for(let x of produtos[inProduto].img){
+        document.getElementById("mini-img").innerHTML+=`
+        <img src="${x}" class="miniatura" height="80" width="auto" style= "border: 2px solid #000; border-radius:5px" >
+    `
+    }
 
-    document.getElementById("detalhes").innerHTML +=`
+    let listaMiniaturas= document.getElementsByClassName("miniatura")
+    for(let card of listaMiniaturas){
+        card.addEventListener("mouseover",alteraImg)
+    }
+}
+
+function alteraImg(){
+    document.getElementById("img-frame").src = this.getAttribute("src")
+}
+
+verDetalhe()
+
+/*const  fundoID =document.getElementById("moto");
+fundoID.style.backgroundImage="url('https://i.pinimg.com/736x/11/95/63/11956381796b638c599e78813dc98f1d.jpg')"
+    <p> ${produtos[inProduto].PotenciaMaxima}</p>
+    <p> ${produtos[inProduto].TorqueMaximo}</p>
+    <div class="grupoValores">
+        <span>R$ ${(produtos[inProduto].valorsemDesconto).toFixed(2).replace("." , ",")}</span>        
+    </div>*/
+
+ /*
+         document.getElementById("detalhes").innerHTML +=`
         <div class="hello">
             <div class="principal01">
                 <div class="product-image">
@@ -91,10 +116,10 @@ async function verDetalhe(){
             
             <div class="principal01">
                 <div class="product-image">
-                    <img src="https://m.media-amazon.com/images/I/41Jd8nIAqBL._AC_UL320_.jpg" width="250px" height="300px">
+                    <img src="https://th.bing.com/th?id=OPHS.8V5Keeh5W9xOqw474C474&w=592&h=550&o=5&pid=21.1" width="250px" height="300px">
                     <div class="oii">
-                        <p class="product-title">Conjunto de Chuva Honda Nylon</p>
-                        <p class="valor">R$ 91,38</p>
+                        <p class="product-title">Par Intercomunicador Capacete Moto V6 1200m Radio Comunicado Interphone</p>
+                        <p class="valor">R$ 394,00</p>
                     </div>
                 </div> 
             </div>
@@ -109,30 +134,5 @@ async function verDetalhe(){
                 </div>
             </div>
         </div>
-    `
-   
-    for(let x of produtos[inProduto].img){
-        document.getElementById("mini-img").innerHTML+=`
-        <img src="${x}" class="miniatura" height="80" width="auto" style= "border: 2px solid #000; border-radius:5px" >
-    `
-    }
-
-    let listaMiniaturas= document.getElementsByClassName("miniatura")
-    for(let card of listaMiniaturas){
-        card.addEventListener("mouseover",alteraImg)
-    }
-}
-
-function alteraImg(){
-    document.getElementById("img-frame").src = this.getAttribute("src")
-}
-
-verDetalhe()
-
-/*const  fundoID =document.getElementById("moto");
-fundoID.style.backgroundImage="url('https://i.pinimg.com/736x/11/95/63/11956381796b638c599e78813dc98f1d.jpg')"
-    <p> ${produtos[inProduto].PotenciaMaxima}</p>
-    <p> ${produtos[inProduto].TorqueMaximo}</p>
-    <div class="grupoValores">
-        <span>R$ ${(produtos[inProduto].valorsemDesconto).toFixed(2).replace("." , ",")}</span>        
-    </div>*/
+    `      
+*/ 
