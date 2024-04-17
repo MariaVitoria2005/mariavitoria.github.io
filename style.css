@@ -14,10 +14,10 @@ body{
 }
 
 .card{
-    /*border: 1px solid #868686;
+    border: 1px solid #868686;
     align-items: center;
     border-radius: 10px ;
-    box-shadow: 6px 6px 8px rgba(146,146,146,146);*/
+    box-shadow: 6px 6px 8px rgba(146,146,146,146);
     flex-direction:column;
     padding: 10px;
     width: 250px;
@@ -50,7 +50,6 @@ body{
 .moto{
     background-repeat: no-repeat;
     background-size: cover;
-   
 }
 
 .grupo-img:hover{
@@ -62,23 +61,15 @@ body{
     /*display: block;*/
     text-align: right;
     line-height:100%;
-    margin-top: 30px;
-    
+    margin-top: 30px; 
 }
 
 .navBar{
     display: flex;
-    /*background-color: rgb(204, 198, 198);*/
-    flex-direction: column;
-    border-bottom: 2px red;  
+    flex-direction: column;  
 }
 
 .logo{
-    /*left: 100px;*/
-    /*margin: 0 auto;*/
-    /*right: 200px;
-    /*top: 10px;*/
-    /*width: auto;*/
     max-width:50px;
     max-height:50px;
     margin-top: 20px;
@@ -87,7 +78,7 @@ body{
 }
 
 .btn{ 
-    /*background: #f5f5f5 ;*/
+    background: #f5f5f5 ;
     color: #c00;
     font-size: 20px;
     border-radius: 10px;
@@ -96,10 +87,9 @@ body{
 
 .butao{
     width: 200px;
-    height: 100px;
+    height: 70px;
     display: flex;
     text-align: center;
-    
 }
 
 .local{

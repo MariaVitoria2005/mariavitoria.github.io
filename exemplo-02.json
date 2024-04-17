@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2023-08/moto-honda-cg-160-start-vermelha_5.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2023-08/moto-honda-cg-160-start-vermelha_5.webp",
             "https://th.bing.com/th/id/OIP.j2hqU1NyUeNe7YWKEt3fxQHaE1?w=695&h=454&rs=1&pid=ImgDetMain",
             "https://i.ytimg.com/vi/trm79N-iE_0/maxresdefault.jpg",
             "https://www.honda.com.br/motos/sites/hda/files/2023-08/moto-honda-cg-160-start--prata-met%C3%A1lico_8.webp"
@@ -12,7 +12,7 @@
     },
     {
         "id":2,
-        "img":["https://www.honda.com.br/motos/sites/hda/files/2023-08/FAN-LATERAL_4.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2023-08/FAN-LATERAL_4.webp",
             "https://i.pinimg.com/originals/77/40/30/77403025e38089b21df688e51f8bdd7d.jpg",
             "https://www.motoo.com.br/fotos/2022/8/1280_960/honda_cg-160_2023_1_01082022_50022_1280_960.jpg",
             "https://motonewsbrasil.com/wp-content/uploads/2021/06/honda-cg-160-fan-2022-preta.jpg"
@@ -23,7 +23,7 @@
     },
     {
         "id":3,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2023-08/moto-honda-cg-160-titan-azul-perolizado_3.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2023-08/moto-honda-cg-160-titan-azul-perolizado_3.webp",
             "https://moto.hondaviaporto.com.br/storage/app/uploads/public/636/aa7/d0b/636aa7d0b5336640317057.png",
             "https://s2-autoesporte.glbimg.com/tUjmcba5L34D4ybTfKZ_vLQnI0M=/0x0:1920x1311/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/3/0/OujBAASFG0Hbdx9yvqxQ/cg-160-titan-edicao-especial-25-anos-5.jpg",
             "https://motonewsbrasil.com/wp-content/uploads/2021/06/honda-cg-160-titan-2022-4.jpeg"    
@@ -34,7 +34,7 @@
     },
     {
         "id":4,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2022-08/CG%20Cargo%20-%20branco.png",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2022-08/CG%20Cargo%20-%20branco.png",
             "https://s3.ecompletocarros.dev/images/lojas/480/veiculos/164436/veiculoInfoVeiculoImagesMobile/vehicle_image_1697117055_19faa933f7674d484b29cf61227e5c4a.jpeg",
             "https://i.ytimg.com/vi/jIJcf8LJlAw/maxresdefault.jpg",
             "https://http2.mlstatic.com/D_NQ_NP_874268-MLB47879806249_102021-O.webp"
@@ -45,7 +45,7 @@
     },
     {
         "id":5,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2022-01/pop100i%20-%20preta.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2022-01/pop100i%20-%20preta.webp",
             "https://www.motoo.com.br/fotos/2019/12/960_720/chp1_02122019_2862_960_720.jpg",
             "https://s2-autoesporte.glbimg.com/cWUzNUKkcu-75jcZzGwGscrTyTs=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/W/I/998n08T8qprts9rtqoCA/2019-03-14-honda-strip-297607-0-full.jpg",
             "https://down-br.img.susercontent.com/file/6a8d31590592f1aededcfeeabc1ff3ed"
@@ -56,7 +56,7 @@
     },
     {
         "id":6,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2021-09/EixosMotos_0000s_0001_BIZ-110i-22-LAT-vermelho_0.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2021-09/EixosMotos_0000s_0001_BIZ-110i-22-LAT-vermelho_0.webp",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZWjWhTvpg0nFT3SbiHYfX41w_1CNVUJYSLkhS30kHduuG9vWZTsvn8AoWmaG5Feemkpc&usqp=CAU",
             "https://motos2022.com.br/wp-content/uploads/2021/01/z1-3.jpg",
             "https://i0.wp.com/www.autodestaque.net.br/wp-content/uploads/2022/01/1HondaBiz110i20221.jpg?fit=1024%2C683&ssl=1"
@@ -67,7 +67,7 @@
     },
     {
         "id":7,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2022-03/Biz-125-azul.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2022-03/Biz-125-azul.webp",
             "https://allmotorsgroup.com.ar/wp-content/uploads/2019/02/Honda-New-Biz-125-Negro.jpg.webp",
             "https://cdn.motor1.com/images/mgl/x6MbG/s1/lanzamiento-honda-new-biz-125.webp",
             "https://th.bing.com/th/id/OIP.mubGc_xw91pNHP_wgq2O5gHaFj?rs=1&pid=ImgDetMain"
@@ -78,7 +78,7 @@
     }, 
     {
         "id":8,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2022-09/Elite-125-prata.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2022-09/Elite-125-prata.webp",
             "https://www.motonline.com.br/noticia/wp-content/uploads/2018/12/honda-elite-125-branca.jpg",
             "https://s2-autoesporte.glbimg.com/ix8Rn_kLsVEyOdeegxBnaNWRWME=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/j/p/7kxa1wTIqfV3fSqFyktA/2018-12-05-hondaelite.jpg",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmwHwBpgTWnWs_vFLcyOAESsoOO1Ba0otNag&usqp=CAU"
@@ -89,7 +89,7 @@
     },
     {
         "id":9,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2022-09/Cor-PCX-Cinza_lateral.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2022-09/Cor-PCX-Cinza_lateral.webp",
             "https://s2-autoesporte.glbimg.com/hitIiVE1rZAP6jAjc0dgHLV8b_M=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/C/c/AtRksLQ9i42J4ZBToclQ/2019-01-22-pcx-sport-3.4-fd.png",
             "https://imgcdn.zigwheels.co.th/large/gallery/exterior/90/3263/honda-pcx150-2019-slant-rear-view-full-image-553428.jpg",
             "https://www.otoinfo.id/wp-content/uploads/2023/12/honda-pcx150-slant-rear-view-full-image-112259-4.webp"
@@ -100,7 +100,7 @@
     },
     {
         "id":10,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2023-07/moto_honda_adv_verde_fosco.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2023-07/moto_honda_adv_verde_fosco.webp",
             "https://www.honda.com.br/motos/sites/hda/files/styles/mobile_640x480/public/2023-06/perspectiva-lateral-da-moto-honda-x-adv-branco-shasta-white-2024.webp?itok=Vmx8-7d2",
             "https://www.motoremaza.com.br/Modelos/Scooter/HONDA-ADV/HONDA-ADV/galeria/perspectiva-lateral-da-moto-honda-adv-vermelho-perolizado-2024_12_11zon.png",
             "https://autocdn.co.uk/cdn-cgi/imagedelivery/JC4X6oe6GKVO4ZI4xd1Czg/cab9e2eb-4dd2-4cd9-2664-c58c0446eb00/raw"
@@ -111,7 +111,7 @@
     },
     {
         "id":11,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2024-02/imagem-home-moto-honda-forza%20350-mat-gunpowder-black-metallic%20.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2024-02/imagem-home-moto-honda-forza%20350-mat-gunpowder-black-metallic%20.webp",
             "https://www.webmotors.com.br/wp-content/uploads/2022/01/13155513/Honda-Forza-350-1.jpg",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJMKm2uAWHbUCy1dIEzATJH9IBonkLG-awTpDefT5q_cNfmntf_C23gIidMreiOwpMKJY&usqp=CAU",
             "https://www.motofichas.com/images/phocagallery/Honda/forza-350-2023/01-honda-forza-350-2023-estudio.jpg"
@@ -122,7 +122,7 @@
     },
     {
         "id":12,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2023-01/moto-honda-cb-300f-twister-cinza-metalico-cbs-2023-v1.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2023-01/moto-honda-cb-300f-twister-cinza-metalico-cbs-2023-v1.webp",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6IJ_hPL0lWgk4nmEeV6bzmWzTBWahLe2lB4p2sKHfr0DyUZkzt110BHiwOp8yJlA4Ss&usqp=CAU",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGXNVMCCTRNvwOOYi0_QbtQYTRymxzVksgWbZ7e8BWzzeUCZ_JCVHJUDlFGSCdatyvkQ&usqp=CAU",
             "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiplGdYLH4vqzww-yh8VHlaz_hwBGrFs-wdJ_bA0COyGMMiZQiQjQluNIrydi3TwIls2x8caQSCI7D6Y6OpiTgE3_0tZ4MMOh7G765hJVmI8uC_fY8VrO3A7Gadb6HTPmyPpgGeg09A6y3ThGAEuhla1-_saL1pvAZ6YCHi8cEcCV2Ai4eUlqxwe2t0/s2560/Honda-CB-300-Twister-2023%20%2820%29.jpg"
@@ -133,7 +133,7 @@
     },
     {
         "id":13,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2023-09/moto-honda-cb-500f-azul-perolizado.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2023-09/moto-honda-cb-500f-azul-perolizado.webp",
             "https://mobilidade.estadao.com.br/wp-content/uploads/2020/12/HondaCB500F2.jpg",
             "https://www.honda.com.br/motos/sites/hda/files/2022-12/banner-header-moto-honda-cb-500f-2023_webp_1.webp",
             "https://i.pinimg.com/736x/ae/fe/4c/aefe4c79a1247274db85a7227e8042b4.jpg"
@@ -144,7 +144,7 @@
     },
     {
         "id":14,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2023-11/Desktop%20-%20%20CB650-Lateral1_laranja.png",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2023-11/Desktop%20-%20%20CB650-Lateral1_laranja.png",
             "https://tudodemotos.com.br/wp-content/uploads/2022/11/CB-650R-2023-Verde-fosco.jpg",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBMUy-b7DzMWcoQTo2DkMVeOSkCr6HXi9kGxYRVkLwwNtkpX-9CfcGgYu8Cz7r4tyzPEo&usqp=CAU",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2L2fbNQhGgp9nP3xsycmYw4MpjH3d96N0VHtyjwlVtjH0ipsz2RNSMUGtw7nHT1e-2UA&usqp=CAU"
@@ -155,7 +155,7 @@
     },
      {
         "id":15,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2023-09/modulo-360-moto-honda-cb-1000r-preto-fosco-mat-ballistic-black-metallic%20.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2023-09/modulo-360-moto-honda-cb-1000r-preto-fosco-mat-ballistic-black-metallic%20.webp",
             "https://www.honda.com.br/motos/sites/hda/files/2023-09/modulo-360-moto-honda-cb-1000r-azul-fosco-mat-jeans-blue-metallic-8_0.webp",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY-tzYoX93STAmbkUJb9yKCh_Kl0FAgSgzMA&usqp=CAU",
             "https://www.clubmotor.com.br/wp-content/uploads/2023/05/Nova-Honda-CB-1000R-2024-Precocores-detalhes-exclusivos-e-lancamento.jpg"
@@ -166,7 +166,7 @@
     },
     {
         "id":16,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2023-09/moto-honda-cb-1000r-azul-fosco-mat-jeans-blue-metallic-lateral-esquerda.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2023-09/moto-honda-cb-1000r-azul-fosco-mat-jeans-blue-metallic-lateral-esquerda.webp",
             "https://cdn.autopapo.com.br/box/uploads/2023/09/18142046/link-7-1-1920x1280.jpg",
             "https://motociclismoonline.com.br/wp-content/uploads/2021/04/CB-1000R-Lat.jpg",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNZAmyKYmPwWKSJf5Y-PL_Gd6y-MIZNlDlGsczxKGAVuPpDrPT0REkOPT1Um0nUfp7Q0&usqp=CAU"
@@ -177,7 +177,7 @@
     },
     {
         "id":17,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2023-11/modulo-360-moto-honda-nc-750x-mt-prata-met%C3%A1lico-ibiuna-silver-metallic%20.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2023-11/modulo-360-moto-honda-nc-750x-mt-prata-met%C3%A1lico-ibiuna-silver-metallic%20.webp",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehieLJrS9hz-qL_5X0_BNqHJxZnH04OGE9XBU8AmXMOZn7jhsAWKgNbOsGv9uW6bTj1E&usqp=CAU",
             "https://www.honda.com.br/motos/sites/hda/files/2023-03/detalhe-lateral-direita-moto-honda-750x-vermelha-parada-em-estrada-arborizada-piloto-ao-fundo.webp",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlNyv-UC47rxryjMZhCxMWyZFyTDaeO1KlRg&usqp=CAU"
@@ -188,7 +188,7 @@
     },
     {
         "id":18,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2023-09/moto-honda-cb-500x-verde-fosco-mat-hunter-green-imagem-home_0.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2023-09/moto-honda-cb-500x-verde-fosco-mat-hunter-green-imagem-home_0.webp",
             "https://cdn.motor1.com/images/mgl/6xEXZ/s1/1x1/honda-lanca-cb-500x-2015-com-novos-grafismos-por-r-24624.webp",
             "https://cdn.motor1.com/images/mgl/Oo369R/s3/nova-honda-cb-500x-2024-azul-perolizado-pearl-spencer-blue.webp",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbh_DtefvjvQWgFY9PBZ3rUYmAgha-G0XoKBCBNQt3C7eKdcLs-ee0PDVDqgnZ27Sd5rE&usqp=CAU"
@@ -199,7 +199,7 @@
     },
     {
         "id":19,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2023-11/modulo-360-moto-honda-CBR-650R-branca-2024-desktop-1.png",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2023-11/modulo-360-moto-honda-CBR-650R-branca-2024-desktop-1.png",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_VEE7dNws6nM0ha9uf8LtfgM8G28BdqOfgmXMNcg2w0vrs8SRo_lUk6W46IDp9WS170&usqp=CAU",
             "https://cdn.motor1.com/images/mgl/xqZmQq/s1/honda-cbr-650r-2023.jpg",
             "https://th.bing.com/th/id/OIP.0xw2D_Z_6e5pg_cdxt1iywHaEK?rs=1&pid=ImgDetMain"
@@ -210,7 +210,7 @@
     },
     {
         "id":20,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2023-10/modulo-360-moto-honda-cbr-1000rr-r-fireblade-sp-mat-pearl-morion-black_1.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2023-10/modulo-360-moto-honda-cbr-1000rr-r-fireblade-sp-mat-pearl-morion-black_1.webp",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI2-u0tqwsbJr_KaMzzVkv-OwLsCrBpC-A5Q1d_epPGttLc4MWQS9HmIq-En-md6fWXCk&usqp=CAU",
             "https://mcn-images.bauersecure.com/wp-images/3689/1440x960/04honda-cbr1000rr.jpg?mode=max&quality=90&scale=down",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIdsvNAJJh8PS21AhNVZ9v4yvJqqHJ8472KzGyQMCV4q1mO8adEwROjDPnNuyXkIX1o1s&usqp=CAU"
@@ -221,7 +221,7 @@
     },
     {
         "id":21,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2023-07/imagem-home-moto-honda-nxr-160-bros-esdd-branco-2024.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2023-07/imagem-home-moto-honda-nxr-160-bros-esdd-branco-2024.webp",
             "https://www.motonline.com.br/storage/ads/19726/29656/img_20230725_171027544.jpg",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG9dAMY2jJOf-afgOkfkIUep5f8YTcOt8_tzBg9GA2Vxo2OwUnLtBaKDsHU0nxDrrIVUo&usqp=CAU",
             "https://img1.icarros.com/dbimg/imgnoticia/4/23380_1"
@@ -232,7 +232,7 @@
     },
     {
         "id":22,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2023-10/modulo-360-moto-honda-africa-twin-mt-azul-met%C3%A1lico.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2023-10/modulo-360-moto-honda-africa-twin-mt-azul-met%C3%A1lico.webp",
             "https://www.honda.com.br/motos/sites/hda/files/2023-01/estrada-deserta-e-moto-honda-crf-1100l-africa-twin-adventure-sports-2023.webp",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhoEWS2l7hX7fHdJXHWkrpaLXOSzqmFvQqo_4H3p4CSmobBQRPQ0cgmola5siX_YINVVk&usqp=CAU",
             "https://dhqlmcogwd1an.cloudfront.net/images/phocagallery/Honda/africa-twin-2024/10-honda-africa-twin-2024-estudio-rojo-01.jpg"
@@ -243,7 +243,7 @@
     },
     {
         "id":23,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2023-08/moto-honda-xre-190-vermelho-perolizado.webp",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2023-08/moto-honda-xre-190-vermelho-perolizado.webp",
             "https://th.bing.com/th/id/OIP.t8mP1f8G0jyKPJgE_pVB3QHaGA?rs=1&pid=ImgDetMain",
             "https://i0.wp.com/motoreport.com.br/wp-content/uploads/2022/02/CB3516C8-6EC8-4DDA-8B04-A1EA5E8C66C6.jpeg?resize=768%2C447&ssl=1",
             "https://www.motorede.com.br/wp-content/uploads/2018/10/XRE-190-2019-01-Laranja-630x473.jpg"
@@ -254,7 +254,7 @@
     },
     {
         "id":24,
-        "img": ["https://www.honda.com.br/motos/sites/hda/files/2022-08/TRX%20Verde%202023%20Cor%20Eixo.png",
+        "img":  ["https://www.honda.com.br/motos/sites/hda/files/2022-08/TRX%20Verde%202023%20Cor%20Eixo.png",
             "https://d3lp4xedbqa8a5.cloudfront.net/imagegen/p/800/600/s3/digital-cougar-assets/traderspecs/2016/11/22/Misc/Yamaha_Grizzly_350_4x4.JPG",
             "https://www.honda.pt/content/dam/local/uk/atv/Images/TRX420/2020YM/TRX420-20ym%20web%20(9).jpg/_jcr_content/renditions/fb.jpg",
             "https://www.totalmotorcycle.com/wp-content/uploads/2016/10/2013-Honda-FourTraxForeman4x4ES-TRX500FE1-small.jpg"

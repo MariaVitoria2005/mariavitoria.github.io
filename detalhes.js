@@ -25,6 +25,8 @@ async function verDetalhe(){
         </iframe>
         </div>
         <div class="mini-img" id="mini-img"> </div>
+
+        
     `
   
     for(let x of produtos[inProduto].img){
